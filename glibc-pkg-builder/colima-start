@@ -1,0 +1,1 @@
+colima start -c 8 -m 16 -d 32 -V $(pwd)/assets/$(uname -m):w -V $(pwd)/pkg:w -p slink
